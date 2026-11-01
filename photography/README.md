@@ -6,15 +6,13 @@ I take photos for personal projects and small client shoots. My gallery includes
 
 My photography earned **5th place at the state level** in National Beta competition.
 
-Some photos in this portfolio are from client shoots and are shared with permission. Please do not use any photos without my prior written permission.
-
 ## Photo gallery
 
 [![View all 170 photos](view-photos.svg)](gallery/README.md)
 
 Browse 170 photographs in 15 collections. Select a preview to open the larger photo.
 
-**View only · © Michael Polanczyk · All rights reserved.** No reuse, redistribution, editing, republication, or sale without my prior written permission. See [Photo rights](LICENSE.md).
+Some photos are from client shoots and are shared with permission. **Please do not use any photos without my prior written permission.** [Photo rights](LICENSE.md).
 
 ## Equipment
 
@@ -33,4 +31,4 @@ I'm interested in macro photography and getting more out of the camera and lense
 
 ## Photo rights
 
-© Michael Polanczyk. **All rights reserved.** Photographs are displayed for portfolio viewing. No permission is granted to reuse, redistribute, edit, republish, sell, or otherwise exploit these photographs without my prior written permission, except as permitted by applicable law. See [Photo rights](LICENSE.md).
+© Michael Polanczyk. **All rights reserved.** These photos are shared for portfolio viewing. Reuse, editing, redistribution, publication, and sale require my prior written permission, except as permitted by applicable law. [Full photo rights notice](LICENSE.md).

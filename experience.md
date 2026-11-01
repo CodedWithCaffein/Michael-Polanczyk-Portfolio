@@ -8,7 +8,7 @@
 
 I am in my third year of official team membership, following approximately two years of involvement before I was eligible to join.
 
-I handle the team's programming and custom-part production, lead CAD design in Autodesk Inventor, and help build and troubleshoot the robot. I also teach teammates parts of these tasks. [My robotics page](robotics.md) goes into more detail.
+I handle the team's programming and custom-part production, lead CAD design in Autodesk Inventor, and help build and troubleshoot the robot. I also teach teammates parts of these tasks.
 
 [FTC responsibilities and team awards →](robotics.md)
 

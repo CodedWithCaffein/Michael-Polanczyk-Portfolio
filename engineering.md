@@ -4,7 +4,7 @@
 
 These are projects I've worked on in class and on my own. Each project page includes the background, decisions, photos, and supporting files.
 
-**[Browse Engineering Projects →](https://github.com/CodedWithCaffein/Engineering---Projects)**
+## Choose a project
 
 | Project | Focus | Status |
 | --- | --- | --- |
@@ -28,4 +28,4 @@ I am the sole programmer and custom-part producer for FTC Team 3665, with additi
 
 **Computer hardware:** I researched and assembled my PC, then upgraded from an Intel Arc A770 to an RTX 3080. I still have the original GPU.
 
-The detailed write-ups stay in my [engineering repository](https://github.com/CodedWithCaffein/Engineering---Projects), so this portfolio can stay easy to browse.
+[Browse all engineering project files →](https://github.com/CodedWithCaffein/Engineering---Projects)

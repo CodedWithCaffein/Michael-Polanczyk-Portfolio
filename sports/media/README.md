@@ -1,13 +1,13 @@
 # Baseball media
 
-Keep original team and tournament photos here, with descriptive filenames.
+Original team, tournament, and game photos are stored here.
 
-| Photo | Filename | Where it belongs |
+| Photo | Filename | Where it appears |
 | --- | --- | --- |
-| Tournament team photo | `baseball_team_tournament.jpg` | [Baseball story — memorable spring](../../sports.md#a-memorable-spring) |
-| 2026 district champions | `baseball_district_champions_2026.jpg` | [Baseball story — recognition](../../sports.md#recognition) |
+| Tournament team photo — dark-blue Wildcats uniforms | `8FA3E5EF-8216-4661-8376-CDCC854AB9C6.png` | [Baseball story — memorable spring](../../sports.md#a-memorable-spring) |
+| 2026 Class 1 District 2 champions — light-blue uniforms and “District Champs” text | `232FABF5-ACD5-41DE-83EB-D69CBDB41700.png` | [Baseball story — recognition](../../sports.md#recognition) |
 
-**To add the images:** Open this folder on GitHub, choose **Add file → Upload files**, select the two JPG files, and commit. These filenames are reserved in the documentation but the images must still be uploaded.
+Additional uploaded baseball photos remain available in this folder under their original filenames.
 
 Make sure you have permission to share images showing other people. Do not reuse original photographs without permission.
 

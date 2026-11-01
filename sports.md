@@ -1,6 +1,6 @@
 # Sports | Baseball
 
-[Home](README.md) · [About me](about.md) · [Awards](awards/README.md)
+[Home](README.md) · [About me](about.md) · [Awards](awards/README.md) · [Engineering](engineering.md)
 
 ## Getting the chance to play
 
@@ -24,8 +24,13 @@ Even though the season didn't end the way we hoped, I'm glad I finally had the c
 - **Oak Ridge tournament** — first place
 - **Academic All-State baseball** — recognition documented in my [awards section](awards/README.md)
 
-## Photos and media
+## Team photos
 
-Photos of the team, games, tournaments, and awards can be uploaded to the [sports media folder](sports/media/README.md). I'll add photos alongside the relevant parts of this story as they become available.
+The two team photos are organized by their subjects. Once the images are uploaded to `sports/media/`, the links below will display them here.
+
+- **Tournament team photo:** `sports/media/baseball_team_tournament.jpg`
+- **2026 district champions:** `sports/media/baseball_district_champions_2026.jpg`
+
+[Sports media folder](sports/media/README.md)
 
 *Please don't reuse my original photographs without permission.*

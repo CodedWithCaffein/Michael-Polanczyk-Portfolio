@@ -2,26 +2,28 @@
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-## College and engineering
+## Aerospace and mechanical engineering
 
-I plan to finish high school while taking dual-credit classes for college. My goal is to attend Missouri S&T in Rolla, Missouri, and pursue a dual major in aerospace and mechanical engineering.
+I plan to complete high school while earning college credit through dual-credit courses. My goal is to attend Missouri S&T in Rolla, Missouri, and pursue a dual major in aerospace and mechanical engineering.
 
-I also want to get involved in the university’s hands-on engineering projects and student teams. I’m interested in applying what I learn in class to aircraft, mechanical systems, and other builds with people who share those interests.
+I want to participate in student engineering teams and hands-on projects that allow me to apply classroom concepts to aircraft, mechanical systems, and other technical challenges.
 
-## Personal projects
+## Rocketry
 
-I want to finish my Eclipson Vortex RC airplane and continue designing, building, and flying FPV drones, gliders, and RC planes. Through robotics and my own projects, I want to keep improving my programming, CAD, manufacturing, and testing skills.
+I plan to study rocketry and become involved in building and flying rockets. After turning 18, I intend to work toward **Level 1 high-power rocketry certification**, developing the knowledge and practical experience required for certification.
 
-## Research and science fair
+## Aircraft and technical projects
 
-I’m considering entering the science fair again during this school year or the next, before I graduate. I’d like to develop one of my projects into a research question I can test and report on.
+I plan to finish my Eclipson Vortex RC airplane and continue designing, building, and flying FPV drones, gliders, and RC aircraft. I also want to strengthen my skills in programming, CAD, manufacturing, and testing through robotics and independent projects.
+
+## Research
+
+I am considering returning to the science fair during the 2026–27 or 2027–28 school year, before graduation. I would like to develop one of my projects into a focused research question supported by testing and data.
 
 ## Mentoring and service
 
-I want to keep helping younger students and introduce more students to programming, CAD, and 3D printing. I also want to stay involved in community activities through school and Beta Club.
+I want to continue teaching younger students programming, CAD, and 3D printing while helping teammates develop the skills to take on more technical responsibilities. I also plan to remain involved in community service through school and National Beta Club.
 
 ## Photography and communication
 
-I want to develop my photography, continue small client shoots, and put together a collection of my favorite work.
-
-I’m also continuing to learn Spanish independently. Being able to communicate with more people is something I value both personally and for my future career.
+I plan to continue personal photography and small client shoots while developing a portfolio of selected work. I am also continuing to study Spanish independently to broaden my ability to communicate with others.

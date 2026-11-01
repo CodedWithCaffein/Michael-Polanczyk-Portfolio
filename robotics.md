@@ -4,7 +4,17 @@
 
 ## My role
 
-I’m in my third year with the LEOPOLD Gear Heads, after about two years of involvement before I could officially join. I program, design parts and assemblies in CAD, help develop our robot’s overall design, contribute mechanism ideas, and help build and troubleshoot the robot.
+I am in my third year of official membership with the LEOPOLD Gear Heads, following approximately two years of involvement before I was eligible to join.
+
+I am the team’s sole programmer and the person responsible for 3D printing and producing custom parts. I also lead CAD design in Autodesk Inventor, help develop the robot’s overall design and mechanisms, and contribute to assembly and troubleshooting. I have taught teammates parts of these processes, while continuing to carry the primary responsibility for programming and part production.
+
+## Responsibilities
+
+- Develop and maintain the robot’s control software.
+- Design custom parts and assemblies in Autodesk Inventor.
+- Manage 3D printing and production of custom parts.
+- Contribute to robot concepts, mechanism design, assembly, and troubleshooting.
+- Teach teammates programming, CAD, and manufacturing tasks.
 
 ## Team awards
 

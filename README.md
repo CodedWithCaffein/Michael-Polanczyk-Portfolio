@@ -4,26 +4,27 @@
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-I’m a high school student interested in aerospace and mechanical engineering. I enjoy designing, building, and flying FPV drones, gliders, and RC planes, along with programming, CAD, and 3D printing.
+I am a high school student preparing to study aerospace and mechanical engineering. My interests include designing, building, and flying FPV drones, gliders, and RC aircraft, as well as programming, CAD, and additive manufacturing.
 
-I take PLTW pre-engineering classes at Cape CTC and work with FTC Team 3665, the LEOPOLD Gear Heads. I’m also involved in Beta Club, community service, and photography, including small client shoots.
+I study PLTW pre-engineering at Cape CTC and serve as the sole programmer and custom-part producer for FTC Team 3665, the LEOPOLD Gear Heads. Through National Beta Club, I participate in technical competitions, project proposals, and community service. I also pursue photography independently and through small client shoots.
 
-## Explore
+## Explore my portfolio
 
-| Area | What you’ll find |
+| Area | Focus |
 | --- | --- |
-| [About me](about.md) | My background, interests, languages, and education |
-| [Engineering](engineering.md) | Builds, software, and experiments |
-| [Experience & achievements](experience.md) | Robotics, Beta competitions, academics, and community service |
-| [Goals](goals.md) | College plans and projects I want to pursue |
-| [Photography](photography/README.md) | My camera setup and photography |
+| [About me](about.md) | Background, education, and interests |
+| [Engineering](engineering.md) | Aircraft, structures, software, and hardware projects |
+| [Experience & achievements](experience.md) | Robotics, academics, competitions, and service |
+| [Goals](goals.md) | College, rocketry, research, and personal development |
+| [Photography](photography/README.md) | Photography and equipment |
 
-## A few highlights
+## Selected achievements
 
-- Straight-A student with a 4.0 GPA throughout school so far.
-- Beta 3D Design: 1st in state and 8th nationally with my team.
-- Beta Robotics: 1st in state and 5th nationally with my team.
-- Photography: 5th in state through Beta.
-- Naval Science Award for my airplane-wing lift science fair project.
+- Straight-A academic record and a 4.0 GPA throughout school to date.
+- Beta 3D Design: 1st in state and 8th nationally as a team.
+- Beta Robotics: 1st in state and 5th nationally as a team.
+- Project Pave the Way: 1st in districts and a top-50 national finish among approximately 400 teams.
+- Beta Photography: 5th in state.
+- Naval Science Award for research on airplane-wing shape and lift.
 
 [Engineering Projects →](https://github.com/CodedWithCaffein/Engineering---Projects) · [GitHub →](https://github.com/CodedWithCaffein)

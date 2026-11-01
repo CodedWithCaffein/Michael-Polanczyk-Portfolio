@@ -2,24 +2,24 @@
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-I’m Michael Polanczyk, a student at Leopold High School in Missouri. I’m interested in aerospace and mechanical engineering, and I enjoy projects that involve designing, building, and testing something for myself.
+I am Michael Polanczyk, a student at Leopold High School in Missouri with an interest in aerospace and mechanical engineering. I enjoy taking a project from an initial idea through design, fabrication, and testing.
 
-## Building and flying
+## Engineering and aviation
 
-I build, design, and fly FPV drones, gliders, and RC planes. I like working with the mechanical parts and electronics, then seeing how the finished aircraft behaves in the air.
+I design, build, and fly FPV drones, gliders, and RC aircraft. These projects bring together my interests in mechanical design, electronics, and flight. My other technical interests include CAD, additive manufacturing, programming, computer hardware, and rocketry.
 
-My other interests include CAD, 3D printing, programming, computer hardware, and photography. I take photos both as a hobby and for small client shoots.
+As a member of FTC Team 3665, the LEOPOLD Gear Heads, I am responsible for programming and custom-part production, along with CAD design and contributions to the robot’s construction and overall design.
 
 ## Education
 
-I take PLTW pre-engineering classes at Cape CTC and dual-credit precalculus through SEMO. I’ve maintained straight A’s and a 4.0 GPA throughout school so far.
+I take PLTW pre-engineering classes at Cape CTC and dual-credit precalculus through SEMO. I have maintained straight A’s and a 4.0 GPA throughout school to date.
 
-I plan to complete high school while earning college credit through dual-credit classes, then study aerospace and mechanical engineering at Missouri S&T in Rolla.
+My goal is to attend Missouri S&T in Rolla and pursue a dual major in aerospace and mechanical engineering while participating in student engineering teams and projects.
 
 ## Languages and family
 
-I’m fluent in English and Polish, and I visit family in Poland about once a year. I’m learning Spanish in my own time because I believe connecting with people and understanding one another matters in everyday life and in business.
+I am fluent in English and Polish and visit family in Poland approximately once a year. I study Spanish independently because I value the ability to communicate across languages and understand different perspectives, both in everyday life and in professional settings.
 
-## School and community
+## Photography and community
 
-I’m involved in FTC robotics, Beta Club, and community service. Through robotics, I program, design in CAD, help build our robot, and contribute ideas for how it should work. Through Beta, I take part in competitions and help with our twice-yearly dumpling fundraiser. I also mentor students during summer school.
+I pursue photography as a hobby and through small client shoots. I am also involved in my school’s National Beta Club chapter, which serves as our honors program. My involvement includes competitions, community project proposals, and fundraising. I mentor students during summer school and help with our Beta Club’s twice-yearly dumpling fundraiser.

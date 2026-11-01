@@ -2,7 +2,7 @@
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-My builds, software, and experiments. The full write-ups, photos, and files are in my engineering repository.
+My engineering work spans aircraft, structural design, software, and computer hardware. Detailed project write-ups, photographs, and supporting files are available in my engineering repository.
 
 **[Browse Engineering Projects →](https://github.com/CodedWithCaffein/Engineering---Projects)**
 
@@ -16,4 +16,4 @@ My builds, software, and experiments. The full write-ups, photos, and files are 
 
 ## Robotics
 
-My FTC work includes programming, CAD, and manufacturing. See [experience and achievements](experience.md).
+I am the sole programmer and custom-part producer for FTC Team 3665, with additional responsibilities in CAD design, robot development, and assembly. [Explore my robotics experience and team awards →](robotics.md)

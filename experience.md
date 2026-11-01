@@ -6,21 +6,15 @@
 
 **LEOPOLD Gear Heads · Team 3665**
 
-I’m in my third year as a robotics team member, after spending about two years involved with the team before I was eligible to officially join.
+I am in my third year of official team membership, following approximately two years of involvement before I was eligible to join.
 
-I’m the team’s main programmer and CAD designer. I help design the robot, build and assemble it, and come up with ideas for mechanisms and ways to approach the game. I also lead much of our 3D printing work.
+I am the team’s sole programmer and the person responsible for 3D printing and producing custom parts. I also lead CAD design in Autodesk Inventor, help develop the robot’s overall design and mechanisms, and contribute to assembly and troubleshooting. I have taught teammates parts of these processes, while continuing to carry the primary responsibility for programming and part production.
 
-- Program the robot’s FTC controls.
-- Design parts and assemblies in Autodesk Inventor.
-- Develop ideas for the robot’s overall design and mechanisms with the team.
-- Help build, assemble, and troubleshoot the robot.
-- Prepare and print parts, then revise them for fit and use.
+[FTC responsibilities and team awards →](robotics.md)
 
-[Team awards — five-season history →](robotics.md)
+## National Beta Club
 
-## Beta Club
-
-I’m involved in my school’s Beta Club, an honor and service organization. I’ve competed in design, engineering, robotics, and photography.
+I am a member of my school’s National Beta Club chapter, which serves as our honors program. My participation includes technical and creative competitions, project planning, and community service.
 
 | Competition | Result |
 | --- | --- |
@@ -28,35 +22,39 @@ I’m involved in my school’s Beta Club, an honor and service organization. I�
 | Robotics — team | 1st in state; 5th nationally |
 | Engineering challenge — team Rube Goldberg machine | Honorable mention |
 | Photography — individual | 5th in state |
+| Project Proposal — Project Pave the Way | 1st in districts; qualified directly for nationals; top 50 among approximately 400 national teams |
+| Project Proposal — Beta Buddies | Third honorable mention; did not advance |
 
-The team engineering challenge involved designing and building a Rube Goldberg machine: a chain of steps that work together to complete a task.
+The engineering challenge involved designing and constructing a Rube Goldberg machine: a sequence of connected mechanisms that completes a task.
 
-## Community involvement
+[Project Pave the Way and Beta Buddies →](beta-projects.md)
 
-**Summer school mentoring:** I mentor students during summer school and help support younger students in my community.
+## Community service
 
-**Beta dumplings:** Twice a year, I help make dumplings for our Beta Club fundraiser. It brings club members together to support our activities with help from the community.
+**Summer school mentoring:** I support younger students as a summer school mentor.
+
+**Beta dumpling fundraiser:** Twice a year, I help prepare dumplings to raise funds for our Beta Club and its activities.
 
 ## Academics and recognition
 
 | Achievement | Details |
 | --- | --- |
-| Academic record | Straight A’s and a 4.0 GPA throughout school so far |
-| Sophomore Pilgrimage | Selected to visit the Missouri State Capitol, tour it, and speak with state and regional representatives |
+| Academic record | Straight A’s and a 4.0 GPA throughout school to date |
+| Sophomore Pilgrimage | Selected to tour the Missouri State Capitol and speak with state and regional representatives |
 | District spelling bee | 3rd place in sixth grade |
 
-## Science fair
+## Science fair research
 
-In eighth grade, I studied **how the shape of an airplane wing affects its lift**. I presented my research at the local science fair and received the highest honorable mention in my district. At the SEMO science fair, I received a Naval Science Award.
+In eighth grade, I investigated **how the shape of an airplane wing affects its lift**. I presented my findings at the local science fair, received the highest honorable mention in my district, and earned a Naval Science Award at the SEMO science fair.
 
-## Education and skills
+## Education and technical skills
 
 | Area | Experience |
 | --- | --- |
-| Engineering coursework | PLTW Pre-Engineering at Cape CTC |
+| Engineering education | PLTW Pre-Engineering at Cape CTC |
 | College coursework | Dual-credit precalculus through SEMO |
-| CAD | Autodesk Inventor; robot parts and assemblies |
+| CAD | Autodesk Inventor; custom parts and robot assemblies |
 | Programming | FTC robot controls; HTML, CSS, and JavaScript |
-| Manufacturing | 3D printing, assembly, and fit adjustments |
-| Photography | Personal photography and small client shoots |
-| Languages | Fluent English and Polish; independently learning Spanish |
+| Manufacturing | 3D printing, custom-part production, assembly, and fit adjustments |
+| Photography | Personal work and small client shoots |
+| Languages | Fluent English and Polish; independent Spanish study |

@@ -20,7 +20,7 @@ Michael is the sole FTC programmer and person responsible for 3D printing and cu
 
 - Keep the root focused on the main portfolio pages.
 - Store gallery photos under photography/images/ and thumbnails under photography/previews/. Do not leave uploads in the root.
-- Keep the gallery index linked from the photography page. Use the same three-column grid and Previous / All collections / Next navigation in every collection.
+- Keep one scrolling photo gallery at photography/gallery/README.md, linked from the photography page. Use a three-column thumbnail grid with jump links and Back to top links. Do not split photos into separate collection pages.
 - Preserve full-size gallery targets when removing unused images; thumbnails and their larger copies serve different purposes.
 - Keep client photos shared with permission and the all-rights-reserved notice.
 - Project Pave the Way finished in the top 140 among around 400 national teams.

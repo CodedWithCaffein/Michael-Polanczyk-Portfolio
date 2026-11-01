@@ -10,7 +10,7 @@ My photography earned **5th place at the state level** in National Beta competit
 
 [![View all 170 photos](view-photos.svg)](gallery/README.md)
 
-Browse 170 photographs in 15 collections. Select a preview to open the larger photo.
+Browse all 170 photographs in one scrolling gallery. Use the jump links to move through the page, or select a photo to open the larger image.
 
 Some photos are from client shoots and are shared with permission. **Please do not use any photos without my prior written permission.** [Photo rights](LICENSE.md).
 

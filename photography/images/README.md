@@ -1,5 +1,3 @@
-# Gallery images
+# Photography
 
-Store selected web-sized photographs here. Keep original and RAW files in a separate backup.
-
-No photographs have been added yet.
+© Michael Polanczyk. Photographs may not be reused without permission.

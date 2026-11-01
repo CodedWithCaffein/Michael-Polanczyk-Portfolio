@@ -1,36 +1,18 @@
-# Maintaining this portfolio
+# Portfolio structure
 
 [Home](../README.md)
 
-## Structure
+| File | Purpose |
+| --- | --- |
+| `README.md` | Landing page |
+| `about.md` | Background and interests |
+| `engineering.md` | Links to engineering projects |
+| `experience.md` | Experience, education, and achievements |
+| `goals.md` | Education and personal goals |
+| `photography/` | Photography and camera gear |
 
-- `README.md`: personal landing page.
-- `about.md`: background and interests.
-- `engineering.md`: project summaries and links.
-- `experience.md`: responsibilities, coursework, skills, and achievements.
-- `goals.md`: future plans.
-- `photography/`: selected photographs and gallery instructions.
+Use consistent navigation and natural first-person writing. Keep detailed engineering documentation in the linked engineering repository. Keep portfolio pages focused on Michael's work; omit editorial notes, upload instructions, missing-content notices, and maintenance checklists from visitor-facing pages.
 
-## Updates
+Use only confirmed information. Omit uncertain dates and placements. Keep goals separate from completed achievements. Review images for private information and location metadata before publishing. Keep original photographs backed up separately.
 
-Keep top navigation consistent. Check links after moving files. Keep detailed engineering documentation in the engineering repository and link to it here. Use natural first-person writing without inflated claims.
-
-Confirm dates, award names, test results, and course completion before listing them as facts. Never invent photos, results, awards, experience, or work-in-progress evidence.
-
-Do not publish private contact information, addresses, daily schedules, receipts, or account screenshots. Remove location metadata from images. Add an email only after Michael chooses which address to share.
-
-## To add later
-
-- Exact SEMO science fair year and official award wording.
-- Curated photography collection.
-- Résumé with confirmed dates and chosen contact information.
-- Robotics photos and a dedicated write-up.
-- New results and achievements as they happen.
-
-## Website next step
-
-This is a browsable Markdown portfolio, not a deployed website. It can later hold a website design for GitHub Pages.
-
-## Reuse
-
-No repository-wide open-content license has been added. The separate engineering repository’s CC BY 4.0 license does not automatically apply here. Choose licensing deliberately before granting reuse of personal writing or photography.
+The engineering repository’s license does not automatically apply to this portfolio or its photographs.

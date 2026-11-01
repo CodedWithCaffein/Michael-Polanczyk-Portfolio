@@ -1,8 +1,8 @@
 # Engineering projects
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience & achievements](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-My detailed project documentation lives in a separate repository so the build logs, photos, files, and costs stay together.
+My builds, software, and experiments. The full write-ups, photos, and files are in my engineering repository.
 
 **[Browse Engineering Projects →](https://github.com/CodedWithCaffein/Engineering---Projects)**
 
@@ -14,8 +14,6 @@ My detailed project documentation lives in a separate repository so the build lo
 | [Custom PC Build](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/custom-pc) | Component research, compatibility, assembly, and an RTX 3080 upgrade | Built and in use |
 | [Clear — Your Everyday Space](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/clear-app) | A personal workspace for everyday information and tasks | In use; ongoing development |
 
-Status is a snapshot; the linked project pages hold the latest details.
-
 ## Robotics
 
-My FTC work includes programming, CAD, and manufacturing. See [experience and achievements](experience.md). A dedicated robotics project page can be added when its photos and technical details are ready.
+My FTC work includes programming, CAD, and manufacturing. See [experience and achievements](experience.md).

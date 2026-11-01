@@ -1,18 +1,19 @@
 # Goals
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience & achievements](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-## Education and career
+## Study aerospace and mechanical engineering
 
-I’m interested in studying mechanical and aerospace engineering at Missouri S&T. I want to learn more about designing, building, and testing systems, especially in aerospace.
+I’m interested in attending Missouri S&T and studying aerospace and mechanical engineering. I want to keep learning about aircraft, mechanical design, and how to test the things I build.
 
-## What I’m working toward
+## Keep building and flying
 
-- **Finish my RC airplane:** complete assembly and flight preparation, targeting the end of summer 2027.
-- **Document bridge testing:** add the official results and explain what they show about my design.
-- **Improve my engineering process:** do more calculations, testing, and comparisons before settling on a design.
-- **Teach younger robotics students:** help introduce programming, CAD, and 3D printing.
-- **Build a photography portfolio:** choose strong images and improve how I shoot and edit.
-- **Keep my work organized:** maintain project pages with clear explanations, real results, and supporting files.
+I want to finish my Eclipson Vortex RC airplane and continue working on FPV drones, gliders, and RC planes. I also want to improve my CAD, programming, and manufacturing skills through robotics and personal projects.
 
-These are plans and interests, not completed accomplishments or confirmed admissions.
+## Help younger students
+
+I want to introduce younger robotics students to programming, CAD, and 3D printing.
+
+## Develop my photography
+
+I want to improve my photography and put together a collection of my favorite work.

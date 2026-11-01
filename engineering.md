@@ -14,6 +14,10 @@ These are projects I've worked on in class and on my own. Select a project to op
 | [Custom PC Build](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/custom-pc) | A compact PC build, from component research and assembly to an RTX 3080 upgrade. | Built and in use |
 | [Clear — Your Everyday Space](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/clear-app) | A personal web workspace for everyday information, tasks, and records. | In use · ongoing development |
 
+## FTC programming references
+
+[FTC Programming Guides](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/programming/ftc-programming-guides) — step-by-step Java examples and implementation notes.
+
 ## Robotics
 
 On FTC Team 3665, I handle programming and custom-part production, lead CAD design, and help build and troubleshoot the robot.

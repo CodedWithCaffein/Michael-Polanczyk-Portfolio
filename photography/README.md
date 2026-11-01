@@ -6,6 +6,14 @@ I pursue photography through personal projects and small client shoots. It provi
 
 My photography earned **5th place at the state level** in National Beta competition.
 
+## Photo gallery
+
+[![View all 92 photos](view-photos.svg)](gallery/README.md)
+
+Browse 92 photographs in eight collections. Select a preview to open the larger photo.
+
+**View only · © Michael Polanczyk · All rights reserved.** No reuse, redistribution, editing, republication, or sale without my prior written permission. See [Photo rights](LICENSE.md).
+
 ## Equipment
 
 | Equipment | Model |

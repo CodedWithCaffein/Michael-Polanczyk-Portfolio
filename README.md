@@ -8,6 +8,10 @@ I am a high school student preparing to study aerospace and mechanical engineeri
 
 I study PLTW pre-engineering at Cape CTC and serve as the sole programmer and custom-part producer for FTC Team 3665, the LEOPOLD Gear Heads. Through National Beta Club, I participate in technical competitions, project proposals, and community service. I also pursue photography independently and through small client shoots.
 
+[![View all 92 photos](photography/view-photos.svg)](photography/gallery/README.md)
+
+**Photography: view only · © Michael Polanczyk · All rights reserved.**
+
 ## Explore my portfolio
 
 | Area | Focus |

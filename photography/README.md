@@ -21,6 +21,7 @@ Browse 170 photographs in 15 collections. Select a preview to open the larger ph
 | Equipment | Model | Buying link |
 | --- | --- | --- |
 | Camera | Sony a6300 | [Used bodies at KEH](https://www.keh.com/sony-alpha-a6300-mirrorless-digital-camera-body-black-1.html) |
+| Lens | Sony E PZ 18–105mm f/4 G OSS (SELP18105G) | [Sony store](https://electronics.sony.com/imaging/lenses/aps-c-e-mount/p/selp18105g) |
 | Lens | TTArtisan APS-C 25mm f/2 — manual focus | [TTArtisan store](https://ttartisan.store/products/aps-c-25mm-f2) |
 | Lens | Rokinon 12mm f/2.0 NCS CS — manual focus | [Rokinon store](https://buyrokinon.com/collections/manual-focus/products/12mm-f2-0-high-speed-wide-angle) · [Used Sony E version at MPB](https://www.mpb.com/en-us/product/rokinon-12mm-f-2-ncs-cs-sony-e-fit) |
 

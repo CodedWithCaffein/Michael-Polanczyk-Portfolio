@@ -16,6 +16,8 @@ I returned in the spring. I didn't get as much playing time as I would have like
 
 That spring, our team set new school and district milestones. We won our district championship and finished first at the Oak Ridge tournament. We then advanced to the playoffs, where our season ended with a disappointing loss at home.
 
+![Leopold Wildcats tournament team](sports/media/8FA3E5EF-8216-4661-8376-CDCC854AB9C6.png)
+
 Even though the season didn't end the way we hoped, I'm glad I finally had the chance to play. I got to learn a sport from the ground up, contribute as part of a team, and experience a season that meant a lot to our school.
 
 ## Recognition
@@ -24,12 +26,7 @@ Even though the season didn't end the way we hoped, I'm glad I finally had the c
 - **Oak Ridge tournament** — first place
 - **Academic All-State baseball** — recognition documented in my [awards section](awards/README.md)
 
-## Team photos
-
-The two team photos are organized by their subjects. Once the images are uploaded to `sports/media/`, the links below will display them here.
-
-- **Tournament team photo:** `sports/media/baseball_team_tournament.jpg`
-- **2026 district champions:** `sports/media/baseball_district_champions_2026.jpg`
+![2026 Class 1 District 2 baseball champions](sports/media/232FABF5-ACD5-41DE-83EB-D69CBDB41700.png)
 
 [Sports media folder](sports/media/README.md)
 

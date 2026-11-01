@@ -11,6 +11,6 @@ These six original baseball photos are displayed in the [baseball story](../../s
 | Teammates near the dugout | [`IMG_3001.jpeg`](IMG_3001.jpeg) | [A memorable spring](../../sports.md#a-memorable-spring) |
 | 2026 Class 1 District 2 champions | [`232FABF5-ACD5-41DE-83EB-D69CBDB41700.png`](232FABF5-ACD5-41DE-83EB-D69CBDB41700.png) | [Recognition](../../sports.md#recognition) |
 
-All six files are distinct and currently in use. Make sure you have permission to share images showing other people. Do not reuse original photographs without permission.
+Please do not reuse my original photographs without permission.
 
 [Back to sports](../../sports.md)

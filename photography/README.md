@@ -1,6 +1,6 @@
 # Photography
 
-[Home](../README.md) · [About me](../about.md) · [Engineering](../engineering.md) · [Robotics](../robotics.md) · [Experience](../experience.md) · [Goals](../goals.md) · [Photography](README.md)
+[Home](../README.md) · [About me](../about.md) · [Engineering](../engineering.md) · [Robotics](../robotics.md) · [Experience](../experience.md) · [Awards](../awards/README.md) · [Sports](../sports.md) · [Goals](../goals.md) · [Photography](README.md)
 
 I take photos for personal projects and small client shoots. My gallery includes nature, animals, places, and everyday details. Photography is something I enjoy alongside engineering, with more room to focus on light, framing, and the finished image.
 

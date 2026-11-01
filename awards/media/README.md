@@ -1,7 +1,7 @@
-# Awards media
+# Award photographs
 
-Upload photos of awards, certificates, medals, and competition recognition directly to this folder using **Add file → Upload files** on GitHub.
+[View awards and recognition](../README.md) · [Home](../../README.md)
 
-Use descriptive filenames, such as `2022-semo-science-fair-award.jpg`. Remove personal details from images before uploading. Files added here are publicly viewable.
+Certificate, medal, patch, and robotics memorabilia photographs accompany the [awards gallery](../README.md#award-photo-gallery).
 
-[Back to awards](../README.md)
+Please do not reuse my original photographs without permission.

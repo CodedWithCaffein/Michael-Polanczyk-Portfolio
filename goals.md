@@ -1,6 +1,6 @@
 # Goals
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
 ## Study aerospace and mechanical engineering
 
@@ -16,7 +16,7 @@ I'd also like to keep designing, building, and flying FPV drones, gliders, and R
 
 ## Get into rocketry
 
-I want to start building and flying rockets and work toward Level 1 high-power rocketry certification after turning 18. This is a future goal; I haven't earned the certification yet.
+I want to start building and flying rockets and work toward Level 1 high-power rocketry certification after turning 18.
 
 ## Return to research
 

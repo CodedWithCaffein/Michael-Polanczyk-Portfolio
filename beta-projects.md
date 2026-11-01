@@ -1,6 +1,6 @@
 # Beta project proposals
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
 Through National Beta Club, I've worked with teams to plan and present ideas for our community. We worked out what each project would do, what it would cost, and how it could be carried out. These were proposals, rather than completed programs or construction projects.
 

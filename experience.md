@@ -1,6 +1,10 @@
 # Experience & achievements
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
+
+My experience includes robotics, National Beta Club competitions, research, and community service.
+
+[Robotics](#ftc-robotics) · [Beta Club](#national-beta-club) · [Service](#community-service) · [Research](#science-fair-research) · [Skills](#education-and-technical-skills)
 
 ## FTC robotics
 
@@ -58,3 +62,5 @@ In eighth grade, I investigated **how the shape of an airplane wing affects its 
 | Manufacturing | 3D printing, custom-part production, assembly, and fit adjustments |
 | Photography | Personal work and small client shoots |
 | Languages | Fluent English and Polish; independent Spanish study |
+
+[Certificates and award photos](awards/README.md) · [My baseball experience](sports.md)

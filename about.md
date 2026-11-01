@@ -1,6 +1,6 @@
 # About me
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
 I'm Michael Polanczyk, a student at Leopold High School in Missouri. I'm interested in aerospace and mechanical engineering, especially projects where I can work on the design, build the parts, and test the result myself.
 

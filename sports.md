@@ -1,6 +1,8 @@
 # Sports | Baseball
 
-[Home](README.md) · [About me](about.md) · [Awards](awards/README.md) · [Engineering](engineering.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
+
+[My first season](#my-first-season) · [A memorable spring](#a-memorable-spring) · [Recognition](#recognition)
 
 ## Getting the chance to play
 

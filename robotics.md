@@ -1,6 +1,6 @@
 # FTC robotics — Team 3665
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
 ## My role
 
@@ -31,3 +31,5 @@ These awards belong to Team 3665 and cover the five completed seasons from 2021�
 | 2025–26 · Decode | January 31, 2026 | Sustain Award | [SE League Tournament](https://ftc-events.firstinspires.org/2025/USMOKSSELT/awards) |
 
 [My experience and other achievements →](experience.md)
+
+[FTC programming guides](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/programming/ftc-programming-guides) · [Awards gallery](awards/README.md)

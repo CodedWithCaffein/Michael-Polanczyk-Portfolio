@@ -2,7 +2,7 @@
 
 **Engineering · Aviation · Robotics · Photography**
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md) · [Awards](awards/README.md) · [Sports](sports.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
 I'm a high school student interested in aerospace and mechanical engineering. I like designing things, figuring out how they work, and getting them built. My projects range from RC aircraft and robot parts to a gear calculator and a custom PC.
 
@@ -31,4 +31,3 @@ I take PLTW pre-engineering at Cape CTC. On FTC Team 3665, the LEOPOLD Gear Head
 - Project Pave the Way: 1st in districts and a top-140 national finish among around 400 teams.
 - Beta Photography: 5th in state.
 - Naval Science Award for my project on airplane-wing shape and lift.
-

@@ -1,8 +1,10 @@
 # Awards and recognition
 
-[Home](../README.md) · [Experience](../experience.md) · [Robotics](../robotics.md)
+[Home](../README.md) · [About me](../about.md) · [Engineering](../engineering.md) · [Robotics](../robotics.md) · [Experience](../experience.md) · [Awards](README.md) · [Sports](../sports.md) · [Goals](../goals.md) · [Photography](../photography/README.md)
 
 This page collects awards from science fairs, academics, technology, citizenship, and athletics. Original certificate and medal photographs are available in the gallery below.
+
+[Science & engineering](#science-and-engineering) · [Academics](#academic-awards) · [Citizenship](#citizenship-and-leadership) · [Athletics](#athletics) · [Photos](#award-photo-gallery)
 
 ## Science and engineering
 
@@ -43,36 +45,37 @@ The Naval Science Award includes a certificate, medal, and letter from the Offic
 
 The photographed collection also includes an *Into the Deep* drive coach button and a *Decode* season pin. These are memorabilia, not listed here as competition awards. See [Robotics](../robotics.md).
 
-
 ## Award photo gallery
 
-The 13 uploaded photographs are shown below. They are kept under their original filenames until each image can be reliably matched to the award named above.
+Certificates, medals, patches, and robotics memorabilia from my collection.
 
-![Uploaded award photo 2977](media/IMG_2977.jpeg)
+![Award collection photo 2977](media/IMG_2977.jpeg)
 
-![Uploaded award photo 2978](media/IMG_2978.jpeg)
+![Award collection photo 2978](media/IMG_2978.jpeg)
 
-![Uploaded award photo 2979](media/IMG_2979.jpeg)
+![Award collection photo 2979](media/IMG_2979.jpeg)
 
-![Uploaded award photo 2980](media/IMG_2980.jpeg)
+![Award collection photo 2980](media/IMG_2980.jpeg)
 
-![Uploaded award photo 2981](media/IMG_2981.jpeg)
+![Award collection photo 2981](media/IMG_2981.jpeg)
 
-![Uploaded award photo 2982](media/IMG_2982.jpeg)
+![Award collection photo 2982](media/IMG_2982.jpeg)
 
-![Uploaded award photo 2983](media/IMG_2983.jpeg)
+![Award collection photo 2983](media/IMG_2983.jpeg)
 
-![Uploaded award photo 2984](media/IMG_2984.jpeg)
+![Award collection photo 2984](media/IMG_2984.jpeg)
 
-![Uploaded award photo 2985](media/IMG_2985.jpeg)
+![Award collection photo 2985](media/IMG_2985.jpeg)
 
-![Uploaded award photo 2986](media/IMG_2986.jpeg)
+![Award collection photo 2986](media/IMG_2986.jpeg)
 
-![Uploaded award photo 2987](media/IMG_2987.jpeg)
+![Award collection photo 2987](media/IMG_2987.jpeg)
 
-![Uploaded award photo 2988](media/IMG_2988.jpeg)
+![Award collection photo 2988](media/IMG_2988.jpeg)
 
-![Uploaded award photo 2989](media/IMG_2989.jpeg)
+![Award collection photo 2989](media/IMG_2989.jpeg)
+
+[Back to top](#awards-and-recognition) · [Baseball story and team photos](../sports.md)
 
 ## Photo rights
 

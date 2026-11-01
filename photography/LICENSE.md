@@ -1,5 +1,9 @@
 # Photography — All rights reserved
 
+[Home](../README.md) · [About me](../about.md) · [Engineering](../engineering.md) · [Robotics](../robotics.md) · [Experience](../experience.md) · [Goals](../goals.md) · [Photography](README.md)
+
+[Gallery](gallery/README.md) · [Camera gear](README.md#equipment)
+
 Copyright © Michael Polanczyk. All rights reserved.
 
 This notice applies to photographs owned by Michael Polanczyk in this photography section and any photo collections or archives distributed with it.

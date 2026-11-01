@@ -1,6 +1,8 @@
 # Photo gallery
 
-[Home](../../README.md) · [Photography & gear](../README.md)
+[Home](../../README.md) · [About me](../../about.md) · [Engineering](../../engineering.md) · [Robotics](../../robotics.md) · [Experience](../../experience.md) · [Goals](../../goals.md) · [Photography](../README.md)
+
+[Gallery](README.md) · [Camera gear](../README.md#equipment) · [Photo rights](../LICENSE.md)
 
 **170 photographs · One gallery**
 

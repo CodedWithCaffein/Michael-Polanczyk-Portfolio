@@ -6,6 +6,8 @@ I take photos for personal projects and small client shoots. My gallery includes
 
 My photography earned **5th place at the state level** in National Beta competition.
 
+Some photos in this portfolio are from client shoots and are shared with permission. Please do not use any photos without my prior written permission.
+
 ## Photo gallery
 
 [![View all 170 photos](view-photos.svg)](gallery/README.md)

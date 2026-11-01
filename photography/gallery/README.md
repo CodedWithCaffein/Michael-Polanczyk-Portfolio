@@ -6,6 +6,8 @@
 
 Select a collection to browse. Click any preview inside a collection to view the larger photograph.
 
+Some photos in this portfolio are from client shoots and are shared with permission. Please do not use any photos without my prior written permission.
+
 **View only · © Michael Polanczyk · All rights reserved.**
 
 No reuse, redistribution, editing, republication, or sale without my prior written permission. [Photo rights](../LICENSE.md).

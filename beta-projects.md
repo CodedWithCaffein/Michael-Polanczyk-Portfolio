@@ -1,16 +1,16 @@
 # Beta project proposals
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-Through National Beta Club, I have worked with teams to develop and present community project proposals. This work includes defining a goal, planning a budget, and outlining the work needed to carry it out.
+Through National Beta Club, I've worked with teams to plan and present ideas for our community. We worked out what each project would do, what it would cost, and how it could be carried out. These were proposals, rather than completed programs or construction projects.
 
 ## Project Pave the Way
 
-**2025 · 1st in districts · National qualifier · Top 50 nationally**
+**2025 · 1st in districts · National qualifier · Top 140 nationally**
 
 Our team proposed paving the school parking lot to address maintenance difficulties and improve parking conditions, particularly during ice and snow. The proposal also included a sidewalk connecting the parking lot to the gym used for sports and school events, with the goal of making access easier for wheelchair users.
 
-We presented the project’s purpose, budget, and plan for completing the work. After placing first at districts, we qualified directly for nationals without competing at state. At nationals, our proposal finished in the top 50 among approximately 400 teams.
+We presented the project’s purpose, budget, and plan for completing the work. After placing first at districts, we qualified directly for nationals without competing at state. At nationals, our proposal finished in the top 140 among around 400 teams.
 
 ## Beta Buddies
 

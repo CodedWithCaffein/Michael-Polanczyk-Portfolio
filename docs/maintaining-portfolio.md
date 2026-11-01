@@ -7,6 +7,8 @@
 | `README.md` | Landing page |
 | `about.md` | Background and interests |
 | `engineering.md` | Links to engineering projects |
+| `robotics.md` | FTC responsibilities and team awards |
+| `beta-projects.md` | Community project proposals and results |
 | `experience.md` | Experience, education, and achievements |
 | `goals.md` | Education and personal goals |
 | `photography/` | Photography and camera gear |

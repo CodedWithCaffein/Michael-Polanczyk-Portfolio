@@ -1,25 +1,37 @@
 # About me
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-I am Michael Polanczyk, a student at Leopold High School in Missouri with an interest in aerospace and mechanical engineering. I enjoy taking a project from an initial idea through design, fabrication, and testing.
+I'm Michael Polanczyk, a student at Leopold High School in Missouri. I'm interested in aerospace and mechanical engineering, especially projects where I can work on the design, build the parts, and test the result myself.
 
-## Engineering and aviation
+## Aircraft and flight
 
-I design, build, and fly FPV drones, gliders, and RC aircraft. These projects bring together my interests in mechanical design, electronics, and flight. My other technical interests include CAD, additive manufacturing, programming, computer hardware, and rocketry.
+I enjoy designing, building, and flying FPV drones, gliders, and RC planes. Aircraft bring together several things I like working on: mechanical design, electronics, 3D printing, and flight.
 
-As a member of FTC Team 3665, the LEOPOLD Gear Heads, I am responsible for programming and custom-part production, along with CAD design and contributions to the robot’s construction and overall design.
+My Eclipson Vortex is one of my ongoing projects. I'm working through printing, assembly, and the hardware needed to get it ready to fly. My earlier science fair project explored how airplane-wing shape affects lift, and I'd like to do more research involving flight and testing.
 
-## Education
+## Design, programming, and building
 
-I take PLTW pre-engineering classes at Cape CTC and dual-credit precalculus through SEMO. I have maintained straight A’s and a 4.0 GPA throughout school to date.
+I use Autodesk Inventor for CAD and 3D printing to turn designs into usable parts. On FTC Team 3665, I handle the robot's programming and custom-part production, lead CAD design, and help with assembly and troubleshooting.
 
-My goal is to attend Missouri S&T in Rolla and pursue a dual major in aerospace and mechanical engineering while participating in student engineering teams and projects.
+I also enjoy smaller independent projects. I built a gear ratio and torque calculator after becoming interested in the equations in engineering class. Building my PC involved researching components, checking compatibility, and deciding which parts made sense for my use.
 
-## Languages and family
+[See my engineering projects](engineering.md) · [More about robotics](robotics.md)
 
-I am fluent in English and Polish and visit family in Poland approximately once a year. I study Spanish independently because I value the ability to communicate across languages and understand different perspectives, both in everyday life and in professional settings.
+## School and college plans
 
-## Photography and community
+I take PLTW pre-engineering at Cape CTC and dual-credit precalculus through SEMO. I've maintained straight A's and a 4.0 GPA throughout school to date.
 
-I pursue photography as a hobby and through small client shoots. I am also involved in my school’s National Beta Club chapter, which serves as our honors program. My involvement includes competitions, community project proposals, and fundraising. I mentor students during summer school and help with our Beta Club’s twice-yearly dumpling fundraiser.
+Coming from a small rural school, I travel to CTC for engineering classes that aren't offered at my high school. My goal is to attend Missouri S&T and study aerospace and mechanical engineering.
+
+## Photography
+
+Photography gives me another way to work on something of my own. I shoot personal projects and small client sessions, and my work placed 5th in state in National Beta competition. I'm also interested in exploring macro photography with my Sony a6300.
+
+[Browse my photography](photography/README.md)
+
+## Languages and community
+
+I'm fluent in English and Polish, visit family in Poland about once a year, and study Spanish independently.
+
+I'm involved in National Beta Club, our school's honors program. Along with competitions and project proposals, I help with community service, summer school mentoring, and our twice-yearly dumpling fundraiser.

@@ -1,29 +1,33 @@
 # Goals
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-## Aerospace and mechanical engineering
+## Study aerospace and mechanical engineering
 
-I plan to complete high school while earning college credit through dual-credit courses. My goal is to attend Missouri S&T in Rolla, Missouri, and pursue a dual major in aerospace and mechanical engineering.
+My goal is to attend Missouri S&T and pursue a dual major in aerospace and mechanical engineering. For now, I'm building that foundation through PLTW pre-engineering, dual-credit coursework, robotics, and projects of my own.
 
-I want to participate in student engineering teams and hands-on projects that allow me to apply classroom concepts to aircraft, mechanical systems, and other technical challenges.
+In college, I want to join student engineering teams and work on aircraft and mechanical systems. I want more experience testing designs and understanding why they succeed or fail.
 
-## Rocketry
+## Finish the Vortex and keep building aircraft
 
-I plan to study rocketry and become involved in building and flying rockets. After turning 18, I intend to work toward **Level 1 high-power rocketry certification**, developing the knowledge and practical experience required for certification.
+I want to finish my Eclipson Vortex RC airplane by the end of summer 2027. That means completing the build, checking the electronics and controls, and getting it ready for flight.
 
-## Aircraft and technical projects
+I'd also like to keep designing, building, and flying FPV drones, gliders, and RC aircraft. These projects give me a reason to keep improving my CAD, manufacturing, and troubleshooting skills.
 
-I plan to finish my Eclipson Vortex RC airplane and continue designing, building, and flying FPV drones, gliders, and RC aircraft. I also want to strengthen my skills in programming, CAD, manufacturing, and testing through robotics and independent projects.
+## Get into rocketry
 
-## Research
+I want to start building and flying rockets and work toward Level 1 high-power rocketry certification after turning 18. This is a future goal; I haven't earned the certification yet.
 
-I am considering returning to the science fair during the 2026–27 or 2027–28 school year, before graduation. I would like to develop one of my projects into a focused research question supported by testing and data.
+## Return to research
 
-## Mentoring and service
+I'm considering another science fair project before graduation. I'd like to take a question from one of my technical interests and investigate it with measurements, repeated tests, and a clear record of what changed.
 
-I want to continue teaching younger students programming, CAD, and 3D printing while helping teammates develop the skills to take on more technical responsibilities. I also plan to remain involved in community service through school and National Beta Club.
+I'm also exploring research opportunities such as Non-Trivial. I want a project with a useful question and results that go beyond simply getting a build to work.
 
-## Photography and communication
+## Teach more of what I know
 
-I plan to continue personal photography and small client shoots while developing a portfolio of selected work. I am also continuing to study Spanish independently to broaden my ability to communicate with others.
+I want to help younger students learn programming, Autodesk Inventor, and 3D printing. On the robotics team, I want to keep teaching teammates so more people can take on technical work and keep those skills on the team.
+
+## Keep developing my photography
+
+I want to continue personal projects and small client shoots, try more macro photography, and build a portfolio that shows the work I'm proud of. I'm also continuing to learn Spanish.

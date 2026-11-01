@@ -1,6 +1,6 @@
 # Experience & achievements
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
 ## FTC robotics
 
@@ -8,7 +8,7 @@
 
 I am in my third year of official team membership, following approximately two years of involvement before I was eligible to join.
 
-I am the team’s sole programmer and the person responsible for 3D printing and producing custom parts. I also lead CAD design in Autodesk Inventor, help develop the robot’s overall design and mechanisms, and contribute to assembly and troubleshooting. I have taught teammates parts of these processes, while continuing to carry the primary responsibility for programming and part production.
+I handle the team's programming and custom-part production, lead CAD design in Autodesk Inventor, and help build and troubleshoot the robot. I also teach teammates parts of these tasks. [My robotics page](robotics.md) goes into more detail.
 
 [FTC responsibilities and team awards →](robotics.md)
 
@@ -22,7 +22,7 @@ I am a member of my school’s National Beta Club chapter, which serves as our h
 | Robotics — team | 1st in state; 5th nationally |
 | Engineering challenge — team Rube Goldberg machine | Honorable mention |
 | Photography — individual | 5th in state |
-| Project Proposal — Project Pave the Way | 1st in districts; qualified directly for nationals; top 50 among approximately 400 national teams |
+| Project Proposal — Project Pave the Way | 1st in districts; qualified directly for nationals; top 140 among around 400 national teams |
 | Project Proposal — Beta Buddies | Third honorable mention; did not advance |
 
 The engineering challenge involved designing and constructing a Rube Goldberg machine: a sequence of connected mechanisms that completes a task.

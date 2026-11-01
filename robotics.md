@@ -1,12 +1,14 @@
 # FTC robotics — Team 3665
 
-[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
+[Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
 ## My role
 
 I am in my third year of official membership with the LEOPOLD Gear Heads, following approximately two years of involvement before I was eligible to join.
 
-I am the team’s sole programmer and the person responsible for 3D printing and producing custom parts. I also lead CAD design in Autodesk Inventor, help develop the robot’s overall design and mechanisms, and contribute to assembly and troubleshooting. I have taught teammates parts of these processes, while continuing to carry the primary responsibility for programming and part production.
+I handle the team's programming, lead CAD design in Autodesk Inventor, and take care of 3D printing and custom-part production. I also help with the robot's design, assembly, and troubleshooting.
+
+That work connects the software to the physical robot: a mechanism needs parts that fit, and the controls need to work with the finished assembly. I work across both sides and help teammates learn parts of the process.
 
 ## Responsibilities
 

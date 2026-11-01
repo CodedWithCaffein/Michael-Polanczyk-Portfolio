@@ -1,8 +1,8 @@
 # Photography
 
-[Home](../README.md) · [About me](../about.md) · [Engineering](../engineering.md) · [Experience](../experience.md) · [Goals](../goals.md) · [Photography](README.md)
+[Home](../README.md) · [About me](../about.md) · [Engineering](../engineering.md) · [Robotics](../robotics.md) · [Experience](../experience.md) · [Goals](../goals.md) · [Photography](README.md)
 
-I pursue photography through personal projects and small client shoots. It provides a creative outlet alongside my engineering work and an opportunity to develop my eye for composition and detail.
+I take photos for personal projects and small client shoots. My gallery includes nature, animals, places, and everyday details. Photography is something I enjoy alongside engineering, with more room to focus on light, framing, and the finished image.
 
 My photography earned **5th place at the state level** in National Beta competition.
 
@@ -16,12 +16,17 @@ Browse 170 photographs in 15 collections. Select a preview to open the larger ph
 
 ## Equipment
 
-| Equipment | Model |
-| --- | --- |
-| Camera | Sony a6300 |
-| Lens | 7artisans 25mm f/2 |
-| Lens | [TTArtisan APS-C 25mm f/2](https://ttartisan.store/products/aps-c-25mm-f2) — manual focus |
-| Lens | Rokinon 12mm f/2.0 NCS CS |
+| Equipment | Model | Buying link |
+| --- | --- | --- |
+| Camera | Sony a6300 | [Used bodies at KEH](https://www.keh.com/sony-alpha-a6300-mirrorless-digital-camera-body-black-1.html) |
+| Lens | TTArtisan APS-C 25mm f/2 — manual focus | [TTArtisan store](https://ttartisan.store/products/aps-c-25mm-f2) |
+| Lens | Rokinon 12mm f/2.0 NCS CS — manual focus | [Rokinon store](https://buyrokinon.com/collections/manual-focus/products/12mm-f2-0-high-speed-wide-angle) · [Used Sony E version at MPB](https://www.mpb.com/en-us/product/rokinon-12mm-f-2-ncs-cs-sony-e-fit) |
+
+Choose the **Sony E** mount when shopping for lenses for this camera. Prices and availability can change.
+
+## What I'd like to explore
+
+I'm interested in macro photography and getting more out of the camera and lenses I already have. I want to keep trying new subjects while improving the photos I take for myself and clients.
 
 ## Photo rights
 

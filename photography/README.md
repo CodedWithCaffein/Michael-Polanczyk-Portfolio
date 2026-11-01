@@ -12,6 +12,9 @@ My photography earned **5th place at the state level** in National Beta competit
 | --- | --- |
 | Camera | Sony a6300 |
 | Lens | 7artisans 25mm f/2 |
+| Lens | [TTArtisan APS-C 25mm f/2](https://ttartisan.store/products/aps-c-25mm-f2) — manual focus |
 | Lens | Rokinon 12mm f/2.0 NCS CS |
 
-© Michael Polanczyk. Photographs may not be reused without permission.
+## Photo rights
+
+© Michael Polanczyk. **All rights reserved.** Photographs are displayed for portfolio viewing. No permission is granted to reuse, redistribute, edit, republish, sell, or otherwise exploit these photographs without my prior written permission, except as permitted by applicable law. See [Photo rights](LICENSE.md).

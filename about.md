@@ -2,22 +2,24 @@
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-I’m Michael Polanczyk, a high school student in Missouri interested in aerospace and mechanical engineering.
+I’m Michael Polanczyk, a student at Leopold High School in Missouri. I’m interested in aerospace and mechanical engineering, and I enjoy projects that involve designing, building, and testing something for myself.
 
-## Interests
+## Building and flying
 
-I enjoy building, designing, and flying FPV drones, gliders, and RC planes. I’m interested in how aircraft work and like working on the mechanical parts, electronics, and assembly involved in a build.
+I build, design, and fly FPV drones, gliders, and RC planes. I like working with the mechanical parts and electronics, then seeing how the finished aircraft behaves in the air.
 
-I also enjoy CAD, 3D printing, programming, and working with computer hardware. Photography is another hobby of mine.
+My other interests include CAD, 3D printing, programming, computer hardware, and photography. I take photos both as a hobby and for small client shoots.
 
 ## Education
 
-I attend Leopold High School and take PLTW pre-engineering classes at Cape CTC. I’m also taking dual-credit precalculus through SEMO.
+I take PLTW pre-engineering classes at Cape CTC and dual-credit precalculus through SEMO. I’ve maintained straight A’s and a 4.0 GPA throughout school so far.
 
-## Robotics
+I plan to complete high school while earning college credit through dual-credit classes, then study aerospace and mechanical engineering at Missouri S&T in Rolla.
 
-I’m part of FTC Team 3665, the LEOPOLD Gear Heads. My main responsibilities are programming, CAD design in Autodesk Inventor, and manufacturing and 3D printing.
+## Languages and family
 
-## Beyond my projects
+I’m fluent in English and Polish, and I visit family in Poland about once a year. I’m learning Spanish in my own time because I believe connecting with people and understanding one another matters in everyday life and in business.
 
-I speak English and Polish, and I’m learning Spanish. I also travel to Poland.
+## School and community
+
+I’m involved in FTC robotics, Beta Club, and community service. Through robotics, I program, design in CAD, help build our robot, and contribute ideas for how it should work. Through Beta, I take part in competitions and help with our twice-yearly dumpling fundraiser. I also mentor students during summer school.

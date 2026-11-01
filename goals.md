@@ -2,18 +2,26 @@
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Experience](experience.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-## Study aerospace and mechanical engineering
+## College and engineering
 
-I’m interested in attending Missouri S&T and studying aerospace and mechanical engineering. I want to keep learning about aircraft, mechanical design, and how to test the things I build.
+I plan to finish high school while taking dual-credit classes for college. My goal is to attend Missouri S&T in Rolla, Missouri, and pursue a dual major in aerospace and mechanical engineering.
 
-## Keep building and flying
+I also want to get involved in the university’s hands-on engineering projects and student teams. I’m interested in applying what I learn in class to aircraft, mechanical systems, and other builds with people who share those interests.
 
-I want to finish my Eclipson Vortex RC airplane and continue working on FPV drones, gliders, and RC planes. I also want to improve my CAD, programming, and manufacturing skills through robotics and personal projects.
+## Personal projects
 
-## Help younger students
+I want to finish my Eclipson Vortex RC airplane and continue designing, building, and flying FPV drones, gliders, and RC planes. Through robotics and my own projects, I want to keep improving my programming, CAD, manufacturing, and testing skills.
 
-I want to introduce younger robotics students to programming, CAD, and 3D printing.
+## Research and science fair
 
-## Develop my photography
+I’m considering entering the science fair again during this school year or the next, before I graduate. I’d like to develop one of my projects into a research question I can test and report on.
 
-I want to improve my photography and put together a collection of my favorite work.
+## Mentoring and service
+
+I want to keep helping younger students and introduce more students to programming, CAD, and 3D printing. I also want to stay involved in community activities through school and Beta Club.
+
+## Photography and communication
+
+I want to develop my photography, continue small client shoots, and put together a collection of my favorite work.
+
+I’m also continuing to learn Spanish independently. Being able to communicate with more people is something I value both personally and for my future career.

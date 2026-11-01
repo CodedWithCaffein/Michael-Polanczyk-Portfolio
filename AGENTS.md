@@ -11,3 +11,5 @@ Do not publish private contact information, precise locations, schedules, accoun
 Do not apply the engineering repository’s license here without Michael’s instruction.
 
 Keep visitor-facing pages free of editorial notes, missing-content notices, upload instructions, and statements about what still needs to be filled in. Omit uncertain details instead. Michael enjoys building, designing, and flying FPV drones, gliders, and RC planes, and is interested in studying aerospace and mechanical engineering.
+
+Michael has supplied Beta results, academic history, client photography, language background, mentoring, and club fundraising details. Preserve team versus individual credit. Do not infer award years or the engineering challenge's award level without confirmation. FTC team history includes years before Michael's official membership; keep that distinction explicit.

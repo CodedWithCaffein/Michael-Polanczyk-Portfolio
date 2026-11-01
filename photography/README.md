@@ -8,9 +8,9 @@ My photography earned **5th place at the state level** in National Beta competit
 
 ## Photo gallery
 
-[![View all 92 photos](view-photos.svg)](gallery/README.md)
+[![View all 170 photos](view-photos.svg)](gallery/README.md)
 
-Browse 92 photographs in eight collections. Select a preview to open the larger photo.
+Browse 170 photographs in 15 collections. Select a preview to open the larger photo.
 
 **View only · © Michael Polanczyk · All rights reserved.** No reuse, redistribution, editing, republication, or sale without my prior written permission. See [Photo rights](LICENSE.md).
 

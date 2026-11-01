@@ -24,3 +24,6 @@ Michael is the sole FTC programmer and person responsible for 3D printing and cu
 - Preserve full-size gallery targets when removing unused images; thumbnails and their larger copies serve different purposes.
 - Keep client photos shared with permission and the all-rights-reserved notice.
 - Project Pave the Way finished in the top 140 among around 400 national teams.
+
+- Treat this portfolio as the main introduction and Engineering---Projects as the detailed project library. Preserve direct links between them and keep the project selector names, descriptions, and statuses consistent.
+- Use the shared project presentation standard and templates in the engineering repository. Do not copy full engineering stories into the personal portfolio or change either repository's licensing.

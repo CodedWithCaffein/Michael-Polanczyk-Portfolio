@@ -1,6 +1,6 @@
 # Awards and recognition
 
-[Home](README.md) · [Experience](experience.md) · [Robotics](robotics.md)
+[Home](../README.md) · [Experience](../experience.md) · [Robotics](../robotics.md)
 
 This page collects awards from science fairs, academics, technology, citizenship, and athletics. Original certificate and medal photographs are available in the gallery below.
 
@@ -41,7 +41,7 @@ The Naval Science Award includes a certificate, medal, and letter from the Offic
 
 ## FTC robotics memorabilia
 
-The photographed collection also includes an *Into the Deep* drive coach button and a *Decode* season pin. These are memorabilia, not listed here as competition awards. See [Robotics](robotics.md).
+The photographed collection also includes an *Into the Deep* drive coach button and a *Decode* season pin. These are memorabilia, not listed here as competition awards. See [Robotics](../robotics.md).
 
 
 ## Award photo gallery

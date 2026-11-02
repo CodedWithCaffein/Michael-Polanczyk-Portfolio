@@ -1,4 +1,4 @@
-# Photography — All rights reserved
+# Photography — All Rights Reserved
 
 [Home](../README.md) · [About me](../about.md) · [Engineering](../engineering.md) · [Robotics](../robotics.md) · [Experience](../experience.md) · [Goals](../goals.md) · [Photography](README.md)
 

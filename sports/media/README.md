@@ -1,4 +1,4 @@
-# Baseball media
+# Baseball — Media Index
 
 These six original baseball photos are displayed in the [baseball story](../../sports.md).
 

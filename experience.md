@@ -1,4 +1,4 @@
-# Experience & achievements
+# Experience and Achievements
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 

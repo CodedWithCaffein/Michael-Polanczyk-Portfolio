@@ -1,4 +1,4 @@
-# Goals
+# Goals and Future Plans
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
@@ -16,7 +16,11 @@ I'd also like to keep designing, building, and flying FPV drones, gliders, and R
 
 ## Get into rocketry
 
-I want to start building and flying rockets and work toward Level 1 high-power rocketry certification after turning 18.
+I want to start building and flying rockets and work toward Level 1 high-power rocketry certification. I’m comparing a supervised junior route with preparing for adult certification after 18.
+
+[My rocketry planning notes](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/rocketry-l1.md)
+
+[Future project ideas](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/README.md)
 
 ## Return to research
 

@@ -1,4 +1,4 @@
-# Engineering projects
+# Engineering Projects
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
@@ -26,7 +26,7 @@ These are projects I've worked on in class and on my own. Select a project to op
 
 | Collection | Focus | Status |
 | --- | --- | --- |
-| [Project Ideas](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/README.md) | Rough concepts in aerospace, rocketry certification, structures, photography, and controlled target shooting. | Rough concepts |
+| [Project Ideas and Planning](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/README.md) | Rough concepts in aerospace, rocketry certification, structures, photography, and controlled target shooting. | Rough concepts |
 
 ## Robotics
 

@@ -1,4 +1,4 @@
-# Awards and recognition
+# Awards and Recognition
 
 [Home](../README.md) · [About me](../about.md) · [Engineering](../engineering.md) · [Robotics](../robotics.md) · [Experience](../experience.md) · [Awards](README.md) · [Sports](../sports.md) · [Goals](../goals.md) · [Photography](../photography/README.md)
 

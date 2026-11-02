@@ -1,4 +1,4 @@
-# Award photographs
+# Awards — Photo Index
 
 [View awards and recognition](../README.md) · [Home](../../README.md)
 

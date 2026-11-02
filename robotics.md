@@ -1,4 +1,4 @@
-# FTC robotics — Team 3665
+# FTC Robotics — Team 3665
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 

@@ -1,4 +1,4 @@
-# Photographs
+# Photography — Image Files
 
 [View the photo gallery](../gallery/README.md)
 

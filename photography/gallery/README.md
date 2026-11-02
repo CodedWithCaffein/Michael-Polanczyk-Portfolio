@@ -1,6 +1,8 @@
-# Photo gallery
+# Photography — Gallery
 
 [Home](../../README.md) · [About me](../../about.md) · [Engineering](../../engineering.md) · [Robotics](../../robotics.md) · [Experience](../../experience.md) · [Awards](../../awards/README.md) · [Sports](../../sports.md) · [Goals](../../goals.md) · [Photography](../README.md)
+
+<a id="photo-gallery"></a>
 
 [Gallery](README.md) · [Camera gear](../README.md#equipment) · [Photo rights](../LICENSE.md)
 

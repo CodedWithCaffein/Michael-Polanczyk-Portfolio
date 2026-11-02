@@ -8,15 +8,25 @@ These are projects I've worked on in class and on my own. Select a project to op
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [Eclipson Vortex RC Airplane](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/rc-airplane) | A 3D-printed airplane build, from printing and assembly to electronics and flight preparation. | Paused · target: end of summer 2027 |
-| [MoDOT Bridge — 2026](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/modot-bridge-2026) | A balsa bridge competition build, including design decisions, construction, and testing. | Built · testing pending |
-| [Gear Ratio and Torque Calculator](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/gear-calculator) | A small calculator for exploring gear ratios, torque, speed, and direction. | Working calculator |
-| [Custom PC Build](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/custom-pc) | A compact PC build, from component research and assembly to an RTX 3080 upgrade. | Built and in use |
-| [Clear — Your Everyday Space](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/clear-app) | A personal web workspace for everyday information, tasks, and records. | In use · ongoing development |
+| [Eclipson Vortex RC Airplane](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/rc-airplane/README.md) | A 3D-printed airplane build, from printing and assembly to electronics and flight preparation. | Paused · target: end of summer 2027 |
+| [MoDOT Bridge — 2026](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/modot-bridge-2026/README.md) | A balsa bridge competition build, including design decisions, construction, and testing. | Built · testing pending |
+| [Custom PC Build](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/custom-pc/README.md) | A compact PC build, from component research and assembly to an RTX 3080 upgrade. | Built and in use |
 
-## FTC programming references
+## Programming projects
 
-[FTC Programming Guides](https://github.com/CodedWithCaffein/Engineering---Projects/tree/main/projects/programming/ftc-programming-guides) — step-by-step Java examples and implementation notes.
+[Browse programming projects](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/programming/README.md)
+
+| Project | Focus | Status |
+| --- | --- | --- |
+| [Gear Ratio and Torque Calculator](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/gear-calculator/README.md) | A small calculator for exploring gear ratios, torque, speed, and direction. | Working · calculation checks passed |
+| [Clear — Your Everyday Space](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/clear-app/README.md) | A personal web workspace for everyday information, tasks, and records. | In use · ongoing development |
+| [FTC Programming Guides](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/programming/ftc-programming-guides/README.md) | Step-by-step FTC Java guides and example code, from telemetry to Pedro Pathing. | Written reference · robot testing pending |
+
+## Planned projects
+
+| Collection | Focus | Status |
+| --- | --- | --- |
+| [Project Ideas](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/README.md) | Rough concepts in aerospace, structures, photography, and controlled target shooting. | Rough concepts |
 
 ## Robotics
 

@@ -26,7 +26,7 @@ These are projects I've worked on in class and on my own. Select a project to op
 
 | Collection | Focus | Status |
 | --- | --- | --- |
-| [Project Ideas](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/README.md) | Rough concepts in aerospace, structures, photography, and controlled target shooting. | Rough concepts |
+| [Project Ideas](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/README.md) | Rough concepts in aerospace, rocketry certification, structures, photography, and controlled target shooting. | Rough concepts |
 
 ## Robotics
 

@@ -12,10 +12,6 @@ I had always wanted to be part of a sports team, but growing up in a hardworking
 
 I started in the fall of my sophomore year. I was completely new to playing on a team, so I spent that season learning the fundamentals, understanding the plays, and getting comfortable with the game.
 
-![At bat for the Leopold Wildcats](sports/media/EB7FDB69-5727-4147-807B-154AF33D6E18.png)
-
-*At bat for the Leopold Wildcats.*
-
 I returned in the spring. I didn't get as much playing time as I would have liked, partly because the more experienced seniors were ahead of me. Still, being part of the team and watching how everyone worked together taught me a lot.
 
 ![Leopold Wildcats players lined up together](sports/media/IMG_2999.jpeg)
